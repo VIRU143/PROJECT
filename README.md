@@ -1,2 +1,2 @@
 # PROJECT
-attendence tracking using python
+attendence tracking system using python
